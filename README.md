@@ -28,3 +28,10 @@ This project similarly tries to set up an aggregator Instagram account, but trie
 Next, I will manually go through these and label each one "good" or "bad" (with 1s and 0s). I will also include all the posts I have posted so far or are contained in the saved collection. These will all be automatically labeled "good". 
 
 Once this is completed I will experiment with various Machine Learning models (and perhaps Deep Learning techniques if I have enough data) to create a program that can automatically download and then sort the posts into good and bad. The alogrithm will be based on my own personal preferences for what I subjectively see to be good design. 
+
+**What else could be added?**
+- Automatically check for comments and like them
+- Reply to comments from a list of pre-set replies
+- Use AI techniques to generate custom captions or replies to comments
+- Automatically follow other users and like their posts (to help speed up growth)
+- Recreate this framework for other topics, e.g. Bushcraft, cooking, cars etc.   
