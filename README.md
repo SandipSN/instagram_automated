@@ -1,5 +1,5 @@
 # instagram_automated
-Automated Instagram program that downloads saved posts and reposts them with appropriate credits and caption 
+Automated Instagram aggregator page that downloads saved posts and reposts them with appropriate credits and captions.
 
 # What is this for?
 Instagram is full of unique and innovative UI/UX and Web designers. As someone who is interested in this topic, I find myself constantly looking for inspirtation on Instagram for my own designs. Currently there exists many pages such as @interfacely, @morrre.dsgn, @readymag etc. who act as a sort of aggregator pages. These collect works of designers and repost them on their pages to help spotlight them and provide inspiration for others.
